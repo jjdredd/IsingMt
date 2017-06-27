@@ -1,0 +1,4 @@
+Ising Monte-Carlo
+
+This is an attempt to write something in Lua
+with the aim to make a mode for minetest.
